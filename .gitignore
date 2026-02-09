@@ -1,0 +1,11 @@
+# test
+build
+
+# vscode
+.vscode
+
+# macos
+.DS_Store
+
+# other file formats
+doc
